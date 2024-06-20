@@ -1,0 +1,10 @@
+{
+  "name": "TIC TAC TOE GAME",
+  "short_name": "TIC TAC TOE GAME",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fff",
+  "description": "TIC TAC TOE GAME"
+  
+ 
+}
