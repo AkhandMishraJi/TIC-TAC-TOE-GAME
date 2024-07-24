@@ -1,7 +1,7 @@
 {
   "name": "TIC TAC TOE GAME",
   "short_name": "TIC TAC TOE GAME",
-  "start_url": ".",
+  "start_url": "https://akhandmishraji.github.io/TIC-TAC-TOE/",
   "display": "standalone",
   "background_color": "#fff",
   "description": "TIC TAC TOE GAME"
